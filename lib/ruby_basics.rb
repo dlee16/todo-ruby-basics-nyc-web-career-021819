@@ -1,5 +1,5 @@
 def division(num1, num2)
- return "#{num1}.tof/#{num2}.tof"
+ return "#{num2}/#{num1}"
 end
 
 def assign_variable(value)
